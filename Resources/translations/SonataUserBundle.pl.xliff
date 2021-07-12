@@ -211,15 +211,15 @@
                 <target equiv-trans="yes" state="final">Użytkownicy</target>
             </trans-unit>
             <trans-unit id="form_general">
-                <source>General</source>
+                <source>form_general</source>
                 <target equiv-trans="yes" state="final">Ogólne</target>
             </trans-unit>
             <trans-unit id="form_groups">
-                <source>Groups</source>
+                <source>form_groups</source>
                 <target equiv-trans="yes" state="final">Grupy</target>
             </trans-unit>
             <trans-unit id="form_management">
-                <source>Management</source>
+                <source>form_management</source>
                 <target equiv-trans="yes" state="final">Uprawnienia</target>
             </trans-unit>
             <trans-unit id="field.label_roles_editable">

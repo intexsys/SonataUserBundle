@@ -227,15 +227,15 @@
                 <target>Utilisateurs</target>
             </trans-unit>
             <trans-unit id="form_general">
-                <source>General</source>
+                <source>form_general</source>
                 <target>Général</target>
             </trans-unit>
             <trans-unit id="form_groups">
-                <source>Groups</source>
+                <source>form_groups</source>
                 <target>Groupes</target>
             </trans-unit>
             <trans-unit id="form_management">
-                <source>Management</source>
+                <source>form_management</source>
                 <target>Gestion</target>
             </trans-unit>
             <trans-unit id="form_profile">

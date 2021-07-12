@@ -231,7 +231,7 @@
                 <target>Käyttäjät</target>
             </trans-unit>
             <trans-unit id="form_general">
-                <source>General</source>
+                <source>form_general</source>
                 <target>Yleinen</target>
             </trans-unit>
             <trans-unit id="form_groups">
@@ -239,7 +239,7 @@
                 <target>Ryhmät</target>
             </trans-unit>
             <trans-unit id="form_management">
-                <source>Management</source>
+                <source>form_management</source>
                 <target>Hallinta</target>
             </trans-unit>
             <trans-unit id="field.label_roles_editable">

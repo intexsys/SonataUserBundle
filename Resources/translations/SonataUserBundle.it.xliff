@@ -235,15 +235,15 @@
                 <target>Utenti</target>
             </trans-unit>
             <trans-unit id="form_general">
-                <source>General</source>
+                <source>form_general</source>
                 <target>Generale</target>
             </trans-unit>
             <trans-unit id="form_groups">
-                <source>Groups</source>
+                <source>form_groups</source>
                 <target>Gruppi</target>
             </trans-unit>
             <trans-unit id="form_management">
-                <source>Management</source>
+                <source>form_management</source>
                 <target>Gestione</target>
             </trans-unit>
             <trans-unit id="field.label_roles_editable">

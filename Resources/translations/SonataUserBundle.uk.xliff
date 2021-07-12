@@ -231,15 +231,15 @@
                 <target>Користувачі</target>
             </trans-unit>
             <trans-unit id="form_general">
-                <source>General</source>
+                <source>form_general</source>
                 <target>Основні відомості</target>
             </trans-unit>
             <trans-unit id="form_groups">
-                <source>Groups</source>
+                <source>form_groups</source>
                 <target>Групи</target>
             </trans-unit>
             <trans-unit id="form_management">
-                <source>Management</source>
+                <source>form_management</source>
                 <target>Керування ролями</target>
             </trans-unit>
             <trans-unit id="form_profile">

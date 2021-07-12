@@ -211,15 +211,15 @@
                 <target>Usuari</target>
             </trans-unit>
             <trans-unit id="form_general">
-                <source>General</source>
+                <source>form_general</source>
                 <target>General</target>
             </trans-unit>
             <trans-unit id="form_groups">
-                <source>Groups</source>
+                <source>form_groups</source>
                 <target>Grups</target>
             </trans-unit>
             <trans-unit id="form_management">
-                <source>Management</source>
+                <source>form_management</source>
                 <target>Administració</target>
             </trans-unit>
             <trans-unit id="field.label_roles_editable">
